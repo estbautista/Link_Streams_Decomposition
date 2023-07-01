@@ -1,5 +1,5 @@
 # Link_Streams_Decomposition
-Repository for the preprint : A Joint Frequency-Structure Decomposition for Link Streams
+Repository for the preprint : A Frequency-Structure Dictionary for Link Streams
 
 The repository is structured in two folders:
   - Experiments: <br/>
